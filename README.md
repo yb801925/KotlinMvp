@@ -1,16 +1,5 @@
 # KotlinMvp
 
-[![](https://jitpack.io/v/git-xuhao/KotlinMvp.svg)](https://jitpack.io/#git-xuhao/KotlinMvp)
-[![Build Status](https://travis-ci.org/git-xuhao/KotlinMvp.svg?branch=master)](https://travis-ci.org/git-xuhao/KotlinMvp)
-[![CircleCI](https://circleci.com/gh/git-xuhao/KotlinMvp/tree/master.svg?style=svg)](https://circleci.com/gh/git-xuhao/KotlinMvp/tree/master)
-[![API](https://img.shields.io/badge/API-19%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=19)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0ee634e0cc3042f8a98e33d6135f39a6)](https://www.codacy.com/app/git-xuhao/KotlinMvp?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=git-xuhao/KotlinMvp&amp;utm_campaign=Badge_Grade)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![](https://img.shields.io/badge/Author-xuhao-blue.svg)](http://xuhaoblog.com)
-[![](https://img.shields.io/badge/QQ-504105930-orange.svg)](http://xuhaoblog.com)
-
-## 【由于个人原因该项目停止维护，目前 api 可以使用，可自行clone 进行二次开发、开源、感谢支持】
-
 **[English Document](https://github.com/git-xuhao/KotlinMvp/blob/master/README-en.md)**
 
 ![这里写图片描述](https://github-1253441343.cos.ap-chengdu.myqcloud.com/ic_launcher.png)
@@ -97,36 +86,4 @@ Kotlin 团队为 Android 开发提供了一套超越标准语言功能的工具�
 **v1.0**
 
  - 初始化版本，主要功能已经完成。
-
-## 关于我
-
- - Email: igeekho@gmail.com
- - Home: [https://xuhaoblog.com](https://xuhaoblog.com)
- - CSDN:[http://blog.csdn.net/u011974987](http://blog.csdn.net/u011974987)
- - 简书: [http://www.jianshu.com/u/25bc3e1e7595](http://www.jianshu.com/u/25bc3e1e7595)
-
-## Thanks
-
-- 感谢所有优秀的开源项目
-
-## 声明
-**项目中的 API 均来自开眼视频，纯属学习交流使用，不得用于商业用途！**
-
-## LICENSE
-
-```
-Copyright 2017 Xiho
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-```
 
